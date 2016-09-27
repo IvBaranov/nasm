@@ -1,2 +1,7 @@
-# nasm
-NASM sandbox for Mac OS x64
+NASM
+====
+NASM by example for Mac OS x64
+
+Build
+=====
+`make`

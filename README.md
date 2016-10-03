@@ -2,6 +2,12 @@ NASM
 ====
 NASM by example for Mac OS x64
 
+1. [Hello world](hello/)
+2. [Echo](echo/)
+3. [Procedural echo](echo-procedural/)
+
+Following the list in this order is not a MUST, however first examples should be much easier to start with.
+
 Build an run
 ------------
 `$ make`

@@ -9,6 +9,10 @@ NASM by example for Mac OS x64
 
 Following the list in this order is not a MUST, however first examples should be much easier to start with.
 
+Install NASM
+------------
+`$ brew install nasm`
+
 Build an run
 ------------
 `$ make`
